@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0fa99e9073713c0f8112bf1ae1101db",
+    "revision": "1aaf0bacfc7e72fbda38d7b727bb9b60",
     "url": "/pianico/index.html"
   },
   {
-    "revision": "c6b03cf53c899bab490c",
+    "revision": "19dbdfc75b6842cdfab1",
     "url": "/pianico/static/css/main.e3f27935.chunk.css"
   },
   {
-    "revision": "ba67a6a93ffabd6837a0",
-    "url": "/pianico/static/js/2.5653c6b2.chunk.js"
+    "revision": "f661b5778d475480beb6",
+    "url": "/pianico/static/js/2.1ee3d690.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/pianico/static/js/2.5653c6b2.chunk.js.LICENSE.txt"
+    "url": "/pianico/static/js/2.1ee3d690.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6b03cf53c899bab490c",
-    "url": "/pianico/static/js/main.2e7ef1b8.chunk.js"
+    "revision": "19dbdfc75b6842cdfab1",
+    "url": "/pianico/static/js/main.050ca46f.chunk.js"
   },
   {
-    "revision": "b5a9e15a807923dc8a6d",
-    "url": "/pianico/static/js/runtime-main.d2f9bdeb.js"
+    "revision": "d656b29e579eda206bff",
+    "url": "/pianico/static/js/runtime-main.e5f6028b.js"
   },
   {
     "revision": "c7ed0594752db3fae6e012d1acd6c189",
