@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1aaf0bacfc7e72fbda38d7b727bb9b60",
+    "revision": "914f82ee9c17adf616fc6882eea35de6",
     "url": "/pianico/index.html"
   },
   {
-    "revision": "19dbdfc75b6842cdfab1",
+    "revision": "eb8c77f61c89888b5bb2",
     "url": "/pianico/static/css/main.e3f27935.chunk.css"
   },
   {
-    "revision": "f661b5778d475480beb6",
-    "url": "/pianico/static/js/2.1ee3d690.chunk.js"
+    "revision": "04c9d49cff63aca768fe",
+    "url": "/pianico/static/js/2.2d8e3b95.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/pianico/static/js/2.1ee3d690.chunk.js.LICENSE.txt"
+    "url": "/pianico/static/js/2.2d8e3b95.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19dbdfc75b6842cdfab1",
-    "url": "/pianico/static/js/main.050ca46f.chunk.js"
+    "revision": "eb8c77f61c89888b5bb2",
+    "url": "/pianico/static/js/main.d40acaaf.chunk.js"
   },
   {
     "revision": "d656b29e579eda206bff",
@@ -54,9 +54,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9fd1327979bcc0e2ac6974ae6151e3e1",
     "url": "/pianico/static/media/G.9fd13279.mp3"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/pianico/static/media/logo.5d5d9eef.svg"
   }
 ]);

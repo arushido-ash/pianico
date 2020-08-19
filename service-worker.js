@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pianico/precache-manifest.8d417bab93ea1ad9f83fc169767abc15.js"
+  "/pianico/precache-manifest.e7016fdbbf3a1d45c71ebce1ffbd077d.js"
 );
 
 self.addEventListener('message', (event) => {
